@@ -28,3 +28,7 @@ header a{
 header a:hover{
     background-color: rgb(94, 235, 0);
 }
+.telegram{
+color:beige;
+font-size: 20px;
+}
