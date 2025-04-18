@@ -4,4 +4,5 @@ body{
 .telegram{
 color:rgb(81, 235, 217);
 font-size: 20px;
+justify-content: center;
 }
